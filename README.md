@@ -3,7 +3,7 @@ Dies ist eine kompakte Partikel Simulation mit Gravitation und ein Maß an Inter
 
 ## Ausführung
 ### Vorraussetzungen
-- Python (Python 3.13.5; sollte mit eignigen Vorgängerversionen auch kompatibel sein)
+- Python (Python 3.13.5; sollte mit einigen Vorgängerversionen auch kompatibel sein)
 - pygame (2.6.1)
 
 ### Programmstart
